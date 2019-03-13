@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.Scanner;
 
-public class code{
+public class diagonal_difference{
 
   public static void main(String args[])
   {
