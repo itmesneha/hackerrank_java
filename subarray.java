@@ -26,7 +26,7 @@ Output:
 import java.io.*;
 import java.util.Scanner;
 
-public class code
+public class subarray
 {
   public static void main(String args[])
   {
